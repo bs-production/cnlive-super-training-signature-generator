@@ -4,15 +4,29 @@
         <table cellpadding="0" cellspacing="0" border="0" style=
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
-            <td valign="top" style=
-            "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0; border-left: 0; border-right: solid 2px #FF7F30">
-            <a href="https://www.contractornationlive.com/"><img width="175"
-                    height="145" style="width: 175px; max-width: 175px !important; height: 145px; max-height: 145px !important;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive26_emailsign.jpg"
-              name="preview-image-url" /></a>
+            <td valign="middle" style=
+            "vertical-align: middle; padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0; border-left: 0; border-right: solid 2px #FF7F30">
+            <table cellpadding="0" cellspacing="0" border="0" style=
+            "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
+              <tr>
+                <td style="padding-bottom: 10px; line-height: 0; font-size: 0;">
+                  <a href="https://www.contractornationlive.com/"><img width="175"
+                    height="79" style="width: 131.25px; max-width: 131.25px !important; height: 59.25px; max-height: 59.25px !important; display: block; border: 0;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive26_emailsign-badge.jpg"
+                    name="preview-image-url" alt="" /></a>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding-top: 0; line-height: 0; font-size: 0;">
+                  <a href="https://www.contractornation.com/"><img width="175"
+                    height="79" style="width: 131.25px; max-width: 131.25px !important; height: 59.25px; max-height: 59.25px !important; display: block; border: 0;" id="preview-image-url-2" src="https://cdn.treehouseinternetgroup.com/cms_images/872/super-training-26-emailsign.jpg"
+                    name="preview-image-url-2" alt="" /></a>
+                </td>
+              </tr>
+            </table>
             </td>
             
-            <td style=
-            "padding-top: 0; padding-bottom: 0; padding-left: 12px; padding-right: 0;">
+            <td valign="middle" style=
+            "vertical-align: middle; padding-top: 0; padding-bottom: 0; padding-left: 12px; padding-right: 0;">
             <table cellpadding="0" cellspacing="0" border="0" style=
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>

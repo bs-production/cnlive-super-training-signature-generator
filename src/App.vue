@@ -6,6 +6,7 @@
         <div class="container">
           <div class="th-logo has-text-centered">
            <img src="https://cdn.treehouseinternetgroup.com/cms_images/872/CN%20Live%2026%20Logo.png" alt="">
+           <img src="https://cdn.treehouseinternetgroup.com/cms_images/872/2026_SuperTraining_Logo.jpg" alt="">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p>
@@ -167,7 +168,7 @@ export default {
 <!-------------------------- Styles ---------------------------->
 <style scoped>
 .th-logo img {
-  width: 550px;
+  width: 300px;
 }
 
 li {
