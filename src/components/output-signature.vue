@@ -42,48 +42,32 @@
                   </td>
                 </tr>
                 <tr>
-                  <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  p:
-                  </td>
-                  <td valign="top" style=
+                  <td colspan="2" valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   {{phone}}
                   </td>
                 </tr>
                 <tr>
-                    <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                    e:
-                    </td>
-                    <td valign="top" style=
+                    <td colspan="2" valign="top" style=
                     "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     <a :href="`mailto:${this.email}`" style="color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">{{email}}</a>
                       &nbsp;&nbsp;
                     </td>
                   </tr>
                   <tr>
-                  <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  w:
-                  </td>
-                  <td valign="top" style=
+                  <td colspan="2" valign="top" style=
                   "vertical-align: top; color: #FF7F30; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://www.contractornationlive.com" target="_blank" style=
-                  "color: #FF7F30; text-decoration: none; font-weight: normal; font-size: 14px;">
+                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 14px;">
                     Contractor Nation Live Signup</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr> 
                 <tr>
-                  <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  w:
-                  </td>
-                  <td valign="top" style=
+                  <td colspan="2" valign="top" style=
                   "vertical-align: top; color: #FF7F30; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://thecncentral.com/tbs/?module=do_training_events_registration" target="_blank" style=
-                  "color: #FF7F30; text-decoration: none; font-weight: normal; font-size: 14px;">
+                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 14px;">
                     Super Training Signup</a>
                     &nbsp;&nbsp;
                   </td>
@@ -138,7 +122,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
-  font-weight: normal;
+  font-weight: bold;
 }
 
 ul {
