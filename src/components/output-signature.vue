@@ -17,7 +17,7 @@
               </tr>
               <tr>
                 <td style="padding-top: 0; line-height: 0; font-size: 0;">
-                  <a href="https://www.contractornation.com/"><img width="175"
+                  <a href="https://thecncentral.com/tbs/?module=do_training_events_registration"><img width="175"
                     height="79" style="width: 131.25px; max-width: 131.25px !important; height: 59.25px; max-height: 59.25px !important; display: block; border: 0;" id="preview-image-url-2" src="https://cdn.treehouseinternetgroup.com/cms_images/872/super-training-26-emailsign.jpg"
                     name="preview-image-url-2" alt="" /></a>
                 </td>
@@ -51,19 +51,6 @@
                   {{phone}}
                   </td>
                 </tr>
-                  <tr>
-                  <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  w:
-                  </td>
-                  <td valign="top" style=
-                  "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.contractornationlive.com" target="_blank" style=
-                  "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    www.contractornationlive.com</a>
-                    &nbsp;&nbsp;
-                  </td>
-                </tr> 
                 <tr>
                     <td width="20" valign="top" style=
                     "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
@@ -75,8 +62,27 @@
                       &nbsp;&nbsp;
                     </td>
                   </tr>
+
                 <tr>
-                  <td colspan="2" style="padding-top: 5px;">
+                  <td colspan="2">
+                  <tr>
+                  <td valign="top" style=
+                  "vertical-align: top; color: #FF7F30; font-size: 12px; font-family: Arial, Helvetica, sans-serif;">
+                  <a href="https://www.contractornationlive.com" target="_blank" style=
+                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 12px;">
+                    Sign up for CN Live 2026</a>
+               
+                  </td>
+                </tr> 
+                <tr>
+                  <td valign="top" style=
+                  "vertical-align: top; color: #FF7F30; font-size: 12px; font-family: Arial, Helvetica, sans-serif;">
+                  <a href="https://thecncentral.com/tbs/?module=do_training_events_registration" target="_blank" style=
+                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 12px;">
+                    Sign up for Super Training 2026</a>
+                 
+                  </td>
+                </tr> 
                     <a href="https://www.facebook.com/contractornation" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=

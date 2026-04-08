@@ -17,7 +17,7 @@
               </tr>
               <tr>
                 <td style="padding-top: 0; line-height: 0; font-size: 0;">
-                  <a href="https://www.contractornation.com/"><img width="175"
+                  <a href="https://thecncentral.com/tbs/?module=do_training_events_registration"><img width="175"
                     height="79" style="width: 131.25px; max-width: 131.25px !important; height: 59.25px; max-height: 59.25px !important; display: block; border: 0;" id="preview-image-url-2" src="https://cdn.treehouseinternetgroup.com/cms_images/872/super-training-26-emailsign.jpg"
                     name="preview-image-url-2" alt="" /></a>
                 </td>
