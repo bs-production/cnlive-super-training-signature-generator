@@ -62,27 +62,34 @@
                       &nbsp;&nbsp;
                     </td>
                   </tr>
-
-                <tr>
-                  <td colspan="2">
                   <tr>
+                  <td width="20" valign="top" style=
+                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  w:
+                  </td>
                   <td valign="top" style=
-                  "vertical-align: top; color: #FF7F30; font-size: 12px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; color: #FF7F30; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://www.contractornationlive.com" target="_blank" style=
-                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 12px;">
-                    Sign up for CN Live 2026</a>
-               
+                  "color: #FF7F30; text-decoration: none; font-weight: normal; font-size: 14px;">
+                    Contractor Nation Live Signup</a>
+                    &nbsp;&nbsp;
                   </td>
                 </tr> 
                 <tr>
+                  <td width="20" valign="top" style=
+                  "vertical-align: top; width: 20px; color: #0e3b7b; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  w:
+                  </td>
                   <td valign="top" style=
-                  "vertical-align: top; color: #FF7F30; font-size: 12px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; color: #FF7F30; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://thecncentral.com/tbs/?module=do_training_events_registration" target="_blank" style=
-                  "color: #FF7F30; text-decoration: none; font-weight: bold; font-size: 12px;">
-                    Sign up for Super Training 2026</a>
-                 
+                  "color: #FF7F30; text-decoration: none; font-weight: normal; font-size: 14px;">
+                    Super Training Signup</a>
+                    &nbsp;&nbsp;
                   </td>
                 </tr> 
+                <tr>
+                  <td colspan="2" style="padding-top: 5px;">
                     <a href="https://www.facebook.com/contractornation" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=
